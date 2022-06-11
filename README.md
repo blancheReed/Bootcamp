@@ -12,6 +12,8 @@ These files have been tested and used to generate a live ELK deployment on Azure
 
   - _TODO: Enter the playbook file._
 
+![Filebeat_Playbook](Filebeat.png) 
+
 This document contains the following details:
 - Description of the Topologu
 - Access Policies
